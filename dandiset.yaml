@@ -7,7 +7,7 @@ about: []
 access:
 - embargoedUntil: '2028-01-28'
   schemaKey: AccessRequirements
-  status: dandi:EmbargoedAccess
+  status: dandi:OpenAccess
 assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
