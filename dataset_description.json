@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Flicker ERG",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "McAnany, Jason"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
